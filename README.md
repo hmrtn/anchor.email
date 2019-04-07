@@ -1,7 +1,8 @@
 
 ![alt text][anchor_email_small]
 
-I believe that for many of us, our email is the cornerstone of our digital lives. Its one of the best ways to communicate and provide credibility online. What's better way to provide a new digital foundation than by getting a new anchor.email? anchor.email should be a familiar email service without questionable practices and advertising. It should provide a new and secure email for all registered users. 
+I believe that for many of us, our email is the cornerstone of our digital lives. Its one of the best ways to communicate and provide credibility online. What's better way to provide a new digital foundation than by getting a new anchor.email? anchor.email should be a familiar email service without questionable practices and advertising. It should provide a new and secure email for all registered users.
+
 ![alt text][anchor_small]
 
 ## The anchor. project is aimed to provide a foundation for our digital lives. 
